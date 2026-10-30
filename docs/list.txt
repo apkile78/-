@@ -1,0 +1,70 @@
+1:1-scale Earth, based on real terrain; real cities and infrastructure are not required initially
+Space beyond Earth, including the Moon and Sun
+Realistic physics, with matter and energy accounting
+Celestial motion, including Earth’s rotation, lunar motion, eclipses, and tide
+First-person play, with the ability to switch to simulation-level control
+Separate character knowledge and abilities from simulation-level information and controls
+Defined sandbox permissions for observation and direct world editing
+One generation—the player’s generation; no family-life or multigenerational gameplay
+Aging and permanent death
+Persistent world with saving and loading
+Save backups and corruption recovery without automatically undoing death
+Save-version compatibility to preserve existing worlds through updates
+Unrestricted sandbox
+Single-player initially; multiplayer is a distant possibility
+Configurable starting era, population, infrastructure, resources, and location on Earth
+No fixed technology ceiling; progression through real-world knowledge, materials, and processes
+Comprehensive Blender-like 3D editor for vehicles, buildings, infrastructure, and machines
+Player-designed creations usable directly in the game
+Functionality determined by materials, components, connections, and operating principles—not appearance alone
+Physical construction requiring materials, tools, energy, time, and assembly
+Vehicle propulsion, fuel, controls, damage, and repairs
+Aerodynamics and buoyancy, including lift, drag, displacement, and stability
+Integrated onboard instruments, navigation, automation, and life support
+Engineering measurements, blueprints, diagnostics, and testing
+Manufacturing tolerances, alignment, precision, and component quality
+Realistic material properties, including weight, strength, conductivity, heat resistance, wear, and corrosion
+Structural integrity, including loads, stress, stability, collapse, and debris
+Tools for inspecting, measuring, assembling, disassembling, operating, and repairing objects
+Inventory and handling based on item size, weight, containers, lifting, and carrying limits
+Resource gathering, management, manufacturing, trade, and energy systems
+Chemistry and processing, including refining, alloys, reactions, fuels, batteries, and industrial waste
+Electrical generation, storage, distribution, grounding, overloads, and short circuits
+Fluid pressure, flow, pumps, valves, tanks, leaks, and sealed compartments
+Construction and production performed by players or NPCs
+Excavation, tunnels, underground construction, and enterable structures and vehicles
+Physical supply chains, storage, and transportation
+Roads, power grids, plumbing, communications, and transport networks built by players or NPCs
+Automation through sensors, circuits, programmable controls, and machines
+Compatible mechanical, electrical, fluid, and communication interfaces between machines
+Extensive AI and civilization simulation, including settlements, populations, economies, governments, and relationships
+Autonomous NPC needs, work, ambitions, perception, memory, and beliefs
+NPC navigation across terrain, interiors, roads, and vehicles
+NPC work orders for construction, operation, transportation, and maintenance, constrained by knowledge and resources
+Ownership, property, agreements, inheritance, crime, and legal consequences
+Extensive life and ecosystem simulation
+Medicine, disease, injury, treatment, disability, and recovery
+Sleep, fatigue, and exertion for the player and NPCs
+Walking, climbing, ladders, swimming, and movement inside vehicles
+Agriculture, animal husbandry, nutrition, food preservation, and spoilage
+Language and communication, including writing, radio, and communication delays
+Knowledge that can be taught, documented, lost, or rediscovered
+Weather, seasons, and day/night cycles
+Rainfall, rivers, groundwater, flooding, drought, and water quality
+Geology, mineral deposits, erosion, soil fertility, and land modification
+Fire, combustion, smoke, heat transfer, and extinguishing
+Pollution, deforestation, resource depletion, and ecosystem recovery
+Sound simulation, including machinery, footsteps, distance, and obstruction
+Persistent ruins, abandoned settlements, and machines that can be explored or reused
+Recorded world history, including discoveries, inventions, settlements, major events, and deaths
+Time manipulation: pause, fast-forward, and slow down, with rules for physics, aging, and AI
+Defined simulation detail and abstraction rules for distant activity and fast-forward
+Clear distinctions between physically simulated behavior and approximations
+Consistent world state across detail and time-speed changes, without duplicated resources or reset processes
+Maps, coordinates, destinations, and orbital planning
+Space hazards, including vacuum, radiation, pressure, temperature, and life-support requirements
+Inspection tools explaining machine failures, structural collapses, and NPC decisions
+Modding and extensible materials, machines, organisms, and simulation rules
+Accessibility, customizable controls, readable interfaces, and adjustable camera movement
+Optional tutorials, reference guides, and engineering examples
+Strong focus on playability
